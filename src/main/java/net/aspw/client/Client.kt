@@ -20,7 +20,7 @@ import net.minecraft.util.ResourceLocation
 object Client {
 
     // Client information
-    const val CLIENT_BEST = "NightX"
+    const val CLIENT_BEST = "Yourmom"
     const val CLIENT_COLORED = "§lN§fightX"
     const val CLIENT_FOLDER = "NightX"
     const val CLIENT_VERSION = "Beta B46"
